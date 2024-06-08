@@ -119,7 +119,7 @@ This project was developed by the Art of Coding team:
 
 Feel free to reach out to me for more information or any queries related to this project.
 
-- **Email**: [sayed.work223@gmail.com](mailto:sayed.work223@gmail.com)
-- **LinkedIn**: [Sayed Elmahdy](https://www.linkedin.com/in/sayed-elmahdy365/)
+- **Email**: [eslamahmed2915@gmail.com](mailto:eslamahmed2915@gmail.com)
+- **LinkedIn**: [Eslam Ahmed](https://www.linkedin.com/in/eslamahmed29/)
 
 ---
